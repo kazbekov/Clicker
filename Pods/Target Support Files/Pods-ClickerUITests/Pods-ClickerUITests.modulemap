@@ -1,0 +1,6 @@
+framework module Pods_ClickerUITests {
+  umbrella header "Pods-ClickerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
